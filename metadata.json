@@ -1,0 +1,5 @@
+{
+  "name": "max-messenger-simulation",
+  "description": "A simulation of the Max messenger login screen designed to simulate connection errors and timeouts for educational purposes.",
+  "requestFramePermissions": []
+}
